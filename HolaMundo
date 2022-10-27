@@ -1,0 +1,11 @@
+<!DOCTIVE HTML>
+<html>
+    <head>
+        <title>HOLA MUNDO</title>
+    </head>
+    <body>    
+        <?php 
+            echo "HOLA MUNDO";
+        ?>             
+    </body>
+</html>    
